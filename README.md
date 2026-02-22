@@ -1,12 +1,17 @@
-# 🔥 Designing Data-Intensive Applications — 2026 Staff Engineer Edition
+# 💎 Designing Data-Intensive Applications: 2026 Staff Edition
 
-> **The practical, interview-ready, cloud-native, zero-fluff rewrite of Martin Kleppmann's classic.**
->
-> Written as if a Senior Staff Engineer at a top-tier tech company is mentoring you over coffee.
+> **The high-signal, zero-fluff playbook for modern distributed systems.**
+> *Simplified, cloud-native, and explicitly optimized for FAANG L6/L7 system design.*
 
 ---
 
-## Why This Exists
+### 🎯 The "Staff Engineer" Filter
+Most engineers read the 600-page classic but fail to translate academic theory into production reality. This project is the high-bandwidth rewrite that bridges that gap.
+
+*   **Stop** wading through academic depth.
+*   **Start** mastering the 20% of architectural patterns that drive 80% of FAANG-scale decisions.
+
+---
 
 DDIA (2017) is the bible of distributed systems. But it's 600+ pages of academic depth. In 2026, you don't need all of that. You need:
 
